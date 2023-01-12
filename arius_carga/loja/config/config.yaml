@@ -1,0 +1,22 @@
+#by: Leandro SJ
+#Neste arquivo você pode indicar o local de cada imagem
+#onde será efetuada a ação de clique do mouse
+
+
+abrir_erp_arius: C:\arius\arius.exe
+usuario: LEANDRO
+senha: 2Le-SJ_8*cdf
+cadastro_de_produtos: C:\arius-play\arius_carga\loja\img\erp\cadastro-produtos.PNG
+
+kw: C:\arius-play\arius_carga\KW.lnk
+log_carga: C:\arius-play\arius_carga\loja\src\log.txt
+
+#kw
+usuario-kw: '91'
+senha-kw: '8419'
+processos: C:\arius-play\arius_carga\loja\img\kw\processos.PNG
+importacao: C:\arius-play\arius_carga\loja\img\kw\importacao.PNG
+importar: C:\arius-play\arius_carga\loja\img\kw\importar.PNG
+gerar_tabelas: C:\arius-play\arius_carga\loja\img\kw\gerar-tabelas.PNG
+todos: C:\arius-play\arius_carga\loja\img\kw\todos.PNG
+gerar: C:\arius-play\arius_carga\loja\img\kw\gerar.PNG

@@ -1,0 +1,41 @@
+#link do arius.exe
+erp_arius: C:\\gestao\\arius.exe
+
+login_erp: "LEANDRO"
+senha_erp: "841972"
+
+#mudar empresa erp
+mudar_empresa_erp: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\erp\\mudar-empresa-erp.PNG
+
+# link img cadastro de produtos
+cadastro_de_produtos: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\erp\\cadastro-produtos.PNG
+
+#link para kw
+kw: C:\\Users\\EXPECTRO\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Apps do Chrome\\KW.lnk
+
+login_kw: "91"
+senha_kw: "8419"
+
+#mudar empresa kw
+mudar_empresa_kw: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\kw\\mudar-empresa-kw.PNG                  
+
+#processos
+processos: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\kw\\processos.PNG
+
+#importação do erp
+importacao: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\kw\\importacao.PNG
+
+#importar
+importar: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\kw\\importar.PNG
+
+#gerar tabelas no pdv
+gerar_tabelas: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\kw\\gerar-tabelas.PNG
+
+#todos
+todos: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\kw\\todos.PNG
+
+#gerar
+gerar: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\atacado\\img\\kw\\gerar.PNG
+
+#Registrar log
+log_carga: C:\\Users\\EXPECTRO\\Documents\\arius_play\\arius_carga\\loja\\src\\log.txt

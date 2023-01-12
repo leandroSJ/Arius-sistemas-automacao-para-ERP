@@ -1,0 +1,5 @@
+#defina a hora e depois execute o arquivo "iniciar-agenda"
+
+agenda_carga: C:\arius-play\arius_carga\loja\src\dist\carga_loja.exe
+
+hora: '05:00'
