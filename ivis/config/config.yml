@@ -1,0 +1,14 @@
+## CONFIGURAÇÕES I'VIS
+## INSIRA O LOCAL DO ARQUIVO COM \\ PARA SEPARAR OS DIRETORIOS
+
+#Ivi's vai Clicar no discket Para exportar os pedidos para o KW
+exportarPedido: C:\\arius_play\\ivis\\img\\Save.PNG
+
+#Ivi's vai Clicar em Finalização para finalizar o pedido
+finalizar: C:\\arius_play\\ivis\\img\\Finalizacao.PNG
+
+#Imagem de fundo
+bg_img: C:\\arius_play\\ivis\\icon\\bg_01.png
+
+#icone
+icon: C:\\arius_play\\ivis\\icon\\among-us.ico
